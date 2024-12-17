@@ -1,0 +1,11 @@
+name: DQs-Food
+title: DQs-Food
+username:
+account: dqs-shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8759690
+bundleId: 8776570
+url: https://dqs-shiny.shinyapps.io/DQs-Food/
+asMultiple: FALSE
+asStatic: FALSE

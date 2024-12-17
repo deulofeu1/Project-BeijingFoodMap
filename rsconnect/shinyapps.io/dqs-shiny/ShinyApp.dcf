@@ -1,0 +1,13 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: dqs-shiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8759423
+bundleId: 7046726
+url: https://dqs-shiny.shinyapps.io/ShinyApp/
+when: 1680595669.27658
+lastSyncTime: 1680595669.27659
+asMultiple: FALSE
+asStatic: FALSE
