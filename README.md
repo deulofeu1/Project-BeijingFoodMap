@@ -8,6 +8,6 @@ The search box on the left can be used to search for signature dishes, such as "
 
 Due to the current limited amount of data, everyone is welcome to act as project shareholders and actively submit contributions to DQ. Submissions should include the shop name; if possible, also include recommended dishes; considering a potential future rating system update, a score out of 10 can be added.
 
-If you cannot directly contact DQ, you can invest by sending the above information to deulofeu@foxmail.com.
+If you cannot directly contact DQ, you can invest by sending the above information to deulofeu@foxmail.com or in the issues.
 
 
